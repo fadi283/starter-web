@@ -1,4 +1,5 @@
 # Starter Web Repo
+# ADDING MORE to README
 ##Hello
 hellow world
 This repository is for showing how Git and GitHub work
