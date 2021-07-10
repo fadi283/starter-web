@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	fadi : egb.fadi@gmail.com
 # THANKS
 
     <name>
